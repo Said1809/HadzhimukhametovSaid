@@ -8,7 +8,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/Said1809/algorithm-complexity-analysis
+git clone https://github.com/Said1809/HadzhimukhametovSaid
 cd lab01
 
 # Установка зависимостей
